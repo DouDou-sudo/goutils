@@ -1,4 +1,4 @@
-module github.com/DouDou-sudo/goutils
+module github.com/Wybal/goutils
 
 go 1.21.1
 
